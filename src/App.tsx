@@ -1,9 +1,13 @@
+import Layout from "./components/common/Layout"
+import PersonalDetail from "./components/feature/PersonalDetail"
+import "./App.css"
+
 function App() {
 
   return (
-   <div>
-    Hello m here can you hear me?
-   </div>
+   <Layout>
+    <PersonalDetail />
+   </Layout>
   )
 }
 
