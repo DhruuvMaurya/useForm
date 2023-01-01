@@ -21,4 +21,4 @@ const styles: { [key: string]: SxProps } = {
   },
 };
 
-export default styles
+export default styles;
